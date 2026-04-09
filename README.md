@@ -6,7 +6,7 @@ in dir ComfyUI/custom_nodes
 
 git clone https://github.com/kpsss34/ComfyUI-SuperAdapter.git
 
-Restart You ComfyUI
+Run Your ComfyUI
 
 ### USE NODE ###
 
