@@ -6,6 +6,8 @@ in dir ComfyUI/custom_nodes
 
 git clone https://github.com/kpsss34/ComfyUI-SuperAdapter.git
 
+HDR VAE Link: [kpsss34/Flux-VAE-HDR](https://huggingface.co/kpsss34/Flux-VAE-HDR)
+
 Run Your ComfyUI
 
 ### USE NODE ###
