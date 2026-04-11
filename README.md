@@ -1,4 +1,4 @@
-# ComfyUI-SuperAdapter FLUX Krea
+# ComfyUI-SuperAdapter FLUX Krea/SDXL
 
 ### How to install ###
 
