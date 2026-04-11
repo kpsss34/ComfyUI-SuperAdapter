@@ -27,7 +27,7 @@ class ApplySuperAdapter:
     RETURN_TYPES = ("MODEL",)
     RETURN_NAMES = ("MODEL",)
     FUNCTION = "apply_super_adapter"
-    CATEGORY = "Flux/Super Adapter"
+    CATEGORY = "Super_Adapter"
 
     def apply_super_adapter(self, model, adapter_name, strength):
         if strength == 0.0:
